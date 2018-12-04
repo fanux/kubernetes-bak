@@ -1,4 +1,5 @@
 <!-- BEGIN MUNGE: GENERATED_TOC -->
+<<<<<<< HEAD
 - [v1.13.0](#v1130)
   - [Downloads for v1.13.0](#downloads-for-v1130)
     - [Client Binaries](#client-binaries)
@@ -69,35 +70,80 @@
     - [Client Binaries](#client-binaries-3)
     - [Server Binaries](#server-binaries-3)
     - [Node Binaries](#node-binaries-3)
+=======
+- [v1.13.0-rc.2](#v1130-rc2)
+  - [Downloads for v1.13.0-rc.2](#downloads-for-v1130-rc2)
+    - [Client Binaries](#client-binaries)
+    - [Server Binaries](#server-binaries)
+    - [Node Binaries](#node-binaries)
+  - [Changelog since v1.13.0-rc.1](#changelog-since-v1130-rc1)
+    - [Other notable changes](#other-notable-changes)
+- [v1.13.0-rc.1](#v1130-rc1)
+  - [Downloads for v1.13.0-rc.1](#downloads-for-v1130-rc1)
+    - [Client Binaries](#client-binaries-1)
+    - [Server Binaries](#server-binaries-1)
+    - [Node Binaries](#node-binaries-1)
+  - [Changelog since v1.13.0-beta.2](#changelog-since-v1130-beta2)
+    - [Other notable changes](#other-notable-changes-1)
+- [v1.13.0-beta.2](#v1130-beta2)
+  - [Downloads for v1.13.0-beta.2](#downloads-for-v1130-beta2)
+    - [Client Binaries](#client-binaries-2)
+    - [Server Binaries](#server-binaries-2)
+    - [Node Binaries](#node-binaries-2)
+>>>>>>> v1.13.0-kubeadm
   - [Changelog since v1.13.0-beta.1](#changelog-since-v1130-beta1)
     - [Other notable changes](#other-notable-changes-2)
 - [v1.13.0-beta.1](#v1130-beta1)
   - [Downloads for v1.13.0-beta.1](#downloads-for-v1130-beta1)
+<<<<<<< HEAD
     - [Client Binaries](#client-binaries-4)
     - [Server Binaries](#server-binaries-4)
     - [Node Binaries](#node-binaries-4)
+=======
+    - [Client Binaries](#client-binaries-3)
+    - [Server Binaries](#server-binaries-3)
+    - [Node Binaries](#node-binaries-3)
+>>>>>>> v1.13.0-kubeadm
   - [Changelog since v1.13.0-alpha.3](#changelog-since-v1130-alpha3)
     - [Action Required](#action-required)
     - [Other notable changes](#other-notable-changes-3)
 - [v1.13.0-alpha.3](#v1130-alpha3)
   - [Downloads for v1.13.0-alpha.3](#downloads-for-v1130-alpha3)
+<<<<<<< HEAD
     - [Client Binaries](#client-binaries-5)
     - [Server Binaries](#server-binaries-5)
     - [Node Binaries](#node-binaries-5)
+=======
+    - [Client Binaries](#client-binaries-4)
+    - [Server Binaries](#server-binaries-4)
+    - [Node Binaries](#node-binaries-4)
+>>>>>>> v1.13.0-kubeadm
   - [Changelog since v1.13.0-alpha.2](#changelog-since-v1130-alpha2)
     - [Other notable changes](#other-notable-changes-4)
 - [v1.13.0-alpha.2](#v1130-alpha2)
   - [Downloads for v1.13.0-alpha.2](#downloads-for-v1130-alpha2)
+<<<<<<< HEAD
     - [Client Binaries](#client-binaries-6)
     - [Server Binaries](#server-binaries-6)
     - [Node Binaries](#node-binaries-6)
+=======
+    - [Client Binaries](#client-binaries-5)
+    - [Server Binaries](#server-binaries-5)
+    - [Node Binaries](#node-binaries-5)
+>>>>>>> v1.13.0-kubeadm
   - [Changelog since v1.13.0-alpha.1](#changelog-since-v1130-alpha1)
     - [Other notable changes](#other-notable-changes-5)
 - [v1.13.0-alpha.1](#v1130-alpha1)
   - [Downloads for v1.13.0-alpha.1](#downloads-for-v1130-alpha1)
+<<<<<<< HEAD
     - [Client Binaries](#client-binaries-7)
     - [Server Binaries](#server-binaries-7)
     - [Node Binaries](#node-binaries-7)
+=======
+    - [Client Binaries](#client-binaries-6)
+    - [Server Binaries](#server-binaries-6)
+    - [Node Binaries](#node-binaries-6)
+>>>>>>> v1.13.0-kubeadm
   - [Changelog since v1.12.0](#changelog-since-v1120)
     - [Action Required](#action-required-1)
     - [Other notable changes](#other-notable-changes-6)
@@ -106,6 +152,7 @@
 <!-- NEW RELEASE NOTES ENTRY -->
 
 
+<<<<<<< HEAD
 # v1.13.0
 
 [Documentation](https://docs.k8s.io)
@@ -623,6 +670,8 @@ SIG Windows focused on improving reliability for Windows and Kubernetes support
 
 
 
+=======
+>>>>>>> v1.13.0-kubeadm
 # v1.13.0-rc.2
 
 [Documentation](https://docs.k8s.io)
